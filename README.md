@@ -16,7 +16,7 @@ Table date includes:
 - Duration
 - Comments
 
-INSERT: full screen
+![full screen](https://github.com/ckbauman/UFOs/blob/main/static/images/Full_screen.png)
 
 Filter Options are used to better limit the amount of data you would like to see at one time.  Filters are located on the bottom left of the screen.
 
@@ -27,23 +27,23 @@ Filter's Included are:
 - Country
 - Shape
 
-INSERT: filter screen
+![filter screen](https://github.com/ckbauman/UFOs/blob/main/static/images/Filter_screen.png)
 
 You can filter on just one option, then hit ENTER.
 
 Example for the "Date" filter:
 
-INSERT: filter date
+![Filter date](https://github.com/ckbauman/UFOs/blob/main/static/images/Filter_date.png)
 
 You can also select multiple filter options, hitting ENTER after each input.
 
 Example for "Date" and "State" filters:
 
-INSERT: filter date state
+![filter date state](https://github.com/ckbauman/UFOs/blob/main/static/images/Filter_date_state.png)
 
 To go back to the original, full table dataset, go to the top of the page and REFRESH the screen.
 
-INSERT: refresh
+![refresh](https://github.com/ckbauman/UFOs/blob/main/static/images/Refresh.png)
 
 
 ## Summary
